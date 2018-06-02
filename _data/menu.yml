@@ -25,7 +25,18 @@ items:
             title: ''
         title: Udala
         url: '#'
-      - title: Informazioa
+      - submenu:
+          - item:
+              - title: Telefono intesgarriak
+                url: '#'
+              - title: Garraio zerbitzua
+                url: '#'
+              - title: Herriko elkarteak
+                url: '#'
+              - title: Lan poltsa
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?IDCategoria=25&idioma=eu-ES
+        title: Informazioa
         url: '#'
       - title: Herritaren ataria
         url: '#'
