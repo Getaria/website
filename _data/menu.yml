@@ -83,6 +83,15 @@ items:
               - title: Alta ematea
                 url: >-
                   https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=CBEA&idioma=eu-ES
+              - title: Baja ematea
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=CBEB&idioma=eu-ES
+              - title: Elkarbizitza ziurtagiria
+                url: >-
+                  https://uzt.gipuzkoa.eus/WAS/AYTO/USCServicioCiudadanoVer15WEB/home.do?ayto=039&hizkuntza=EU
+              - title: Helbide eta datu pertsonalen aldaketa
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=CBEC&idioma=eu-ES
             title: Errolda
         title: Herritaren ataria
         url: '#'
