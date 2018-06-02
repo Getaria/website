@@ -23,6 +23,13 @@ collections:
                 fields:
                   - {label: Title, name: title, widget: string}
                   - {label: Url, name: url, widget: string}
+                  - label: "Sub menu"
+                    name: "submenu"
+                    widget: "list"
+                    fields:
+                      - {label: Title, name: title, widget: string}
+                      - {label: Url, name: url, widget: string}
+
 
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
