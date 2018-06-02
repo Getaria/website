@@ -38,7 +38,23 @@ items:
                   https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?IDCategoria=25&idioma=eu-ES
         title: Informazioa
         url: '#'
-      - title: Herritaren ataria
+      - submenu:
+          - item:
+              - title: Tramitazioaren bilatzailea
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesBuscador.aspx?+&idAyto=39&idioma=eu-ES
+            title: Tramiteak on-line
+          - item:
+              - title: Txosnak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=UTXO&idioma=eu-ES
+            title: Lizentziak eta baimenak
+          - item:
+              - title: Alta ematea
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=CBEA&idioma=eu-ES
+            title: Errolda
+        title: Herritaren ataria
         url: '#'
       - title: Udal sailak
       - title: Udal zerbitzua
