@@ -28,7 +28,12 @@ collections:
                     widget: "list"
                     fields:
                       - {label: Title, name: title, widget: string}
-                      - {label: Url, name: url, widget: string}
+                      - label: Item
+                        name: item
+                        widget: list
+                        fields:
+                          - {label: Title, name: title, widget: string}
+                          - {label: Url, name: url, widget: string}
 
 
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
