@@ -1,0 +1,14 @@
+items:
+  - item:
+      - title: Udala
+        url: '#'
+      - title: Informazioa
+        url: '#'
+      - title: Herritaren ataria
+        url: '#'
+      - title: Udal sailak
+      - title: Udal zerbitzua
+        url: '#'
+      - title: Gardentasuna
+        url: '#'
+    language: eu
