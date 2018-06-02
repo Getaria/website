@@ -1,13 +1,15 @@
 items:
   - item:
       - submenu:
-          - title: Ongietorria
-            url: '#'
-          - title: Udalaren osaera
-            url: '#'
-          - title: Aurrekontuak
-            url: >-
-              https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=52&idioma=eu-ES
+          - item:
+              - title: Ongietorria
+                url: '#'
+              - title: Udalaren osaera
+                url: '#'
+              - title: Aurrekontuak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=52&idioma=eu-ES
+            title: ''
         title: Udala
         url: '#'
       - title: Informazioa
