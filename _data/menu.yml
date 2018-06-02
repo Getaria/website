@@ -69,6 +69,15 @@ items:
               - title: Txosnak
                 url: >-
                   https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=UTXO&idioma=eu-ES
+              - title: Letreroak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=HBLP&idioma=eu-ES
+              - title: Obra handiak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=HBLH&idioma=eu-ES
+              - title: Obra txikiak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=HBLT&idioma=eu-ES
             title: Lizentziak eta baimenak
           - item:
               - title: Alta ematea
