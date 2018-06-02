@@ -56,7 +56,27 @@ items:
             title: Errolda
         title: Herritaren ataria
         url: '#'
-      - title: Udal sailak
+      - submenu:
+          - item:
+              - title: Kultura
+                url: '#'
+              - title: Turismoa
+                url: '#'
+              - title: Hirigintza eta ingurumena
+                url: '#'
+              - title: Hezkuntza
+                url: '#'
+              - title: Gazteak
+                url: '#'
+              - title: Kirola
+                url: '#'
+              - title: Parekidetasuna
+                url: '#'
+              - title: Ogasuna
+                url: '#'
+              - title: Herritaren parte-hartzea eta gardentasuna
+        title: Udal sailak
+        url: '#'
       - title: Udal zerbitzua
         url: '#'
       - title: Gardentasuna
