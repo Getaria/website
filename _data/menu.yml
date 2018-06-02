@@ -9,6 +9,19 @@ items:
               - title: Aurrekontuak
                 url: >-
                   https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=52&idioma=eu-ES
+              - title: Diru languntzak
+                url: '#'
+              - title: Aktak
+                url: >-
+                  https://dos.cgssl.net/PortalV/5.52/DocsPublicos.aspx?&idAyto=39&t=63&idioma=eu-ES
+              - title: Ordenantzak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=64&idioma=eu-ES
+              - title: Geografia informazio zerbitzuak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=64&idioma=eu-ES
+              - title: Festak eta jaialdiak
+                url: '#'
             title: ''
         title: Udala
         url: '#'
