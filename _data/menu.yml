@@ -43,6 +43,27 @@ items:
               - title: Tramitazioaren bilatzailea
                 url: >-
                   https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesBuscador.aspx?+&idAyto=39&idioma=eu-ES
+              - title: Isunak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=18&idioma=eu-ES
+              - title: Udal areto eta materiala erabiltzako
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/Login.aspx?ReturnUrl=%2fPortalV%2f5.52%2fZonaPrivada%2fNuevaSolicitud.aspx%3fTipoExpediente%3dUMAI%26Doc%3d1&TipoExpediente=UMAI&Doc=1&IDAyto=39&idioma=eu-ES
+              - title: Ikastaroak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/Login.aspx?ReturnUrl=%2fPortalV%2f5.52%2fZonaPrivada%2fNuevaSolicitud.aspx%3fTipoExpediente%3dKIAS%26Doc%3d1&TipoExpediente=KIAS&Doc=1&IDAyto=39&idioma=eu-ES
+              - title: Ziurtagiriak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=13&idioma=eu-ES
+              - title: Gardentasuna
+                url: >-
+                  http://www.gipuzkoairekia.eus/eu/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599
+              - title: Errejistro zibila
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=3&idioma=eu-ES
+              - title: Txakurren errejistroa
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=MTXA&idioma=eu-ES
             title: Tramiteak on-line
           - item:
               - title: Txosnak
