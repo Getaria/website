@@ -80,5 +80,6 @@ items:
       - title: Udal zerbitzua
         url: '#'
       - title: Gardentasuna
-        url: '#'
+        url: >-
+          http://www.gipuzkoairekia.eus/eu/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599
     language: eu
