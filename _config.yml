@@ -53,3 +53,10 @@ collections:
     output: true
   oficinas:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: paginas
+    values:
+      layout: page

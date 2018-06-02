@@ -28,7 +28,7 @@ items:
       - submenu:
           - item:
               - title: Telefono intesgarriak
-                url: '#'
+                url: '/eu/telefono-intesgarriak'
               - title: Garraio zerbitzua
                 url: '#'
               - title: Herriko elkarteak
