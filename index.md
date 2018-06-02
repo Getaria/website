@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+head-includes:
+  - "<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>" 
 ---
-
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
