@@ -44,6 +44,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  - _redirects
+
 collections_dir: content
 collections:
   paginas:
