@@ -77,7 +77,28 @@ items:
               - title: Herritaren parte-hartzea eta gardentasuna
         title: Udal sailak
         url: '#'
-      - title: Udal zerbitzua
+      - submenu:
+          - item:
+              - title: Udaltzaingoa
+                url: '#'
+              - title: Turismo bulegoa
+              - title: Libutegia
+                url: '#'
+              - title: Kiroldegia
+                url: '#'
+              - title: Herri eskola
+                url: '#'
+              - title: Haurtzaindegia
+                url: '#'
+              - title: Eguneko zentroa
+                url: '#'
+              - title: Musika eskola
+                url: '#'
+              - title: Gizarte laguntza
+                url: '#'
+              - title: Bake epaitegia
+                url: '#'
+        title: Udal zerbitzua
         url: '#'
       - title: Gardentasuna
         url: >-
