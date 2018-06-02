@@ -5,6 +5,25 @@ backend:
 media_folder: "assets/images/uploads"
 
 collections:
+  - label: "Data"
+    name: "data"
+    files:
+      - label: "Menú principal"
+        name: "menu"
+        file: "_data/menu.yml"
+        fields:
+          - label: Items
+            name: items
+            widget: "list"
+            fields:
+              - {label: "Language", name: "language", widget: "select", options: ["eu", "es"]}
+              - label: Item
+                name: item
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Url, name: url, widget: string}
+
    - name: "posts" # Used in routes, e.g., /admin/collections/blog
      label: "Blog" # Used in the UI
      folder: "content/_posts" # The path to the folder where the documents are stored
