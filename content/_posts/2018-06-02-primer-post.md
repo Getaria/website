@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Primer post
 date: '2018-06-02T13:01:11+02:00'
 ---
