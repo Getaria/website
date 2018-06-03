@@ -5,4 +5,6 @@
 layout: home
 lang: eu
 permalink: /eu
+sidebar_right:
+  - acceso-portal-ciudadano
 ---

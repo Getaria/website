@@ -56,6 +56,7 @@ collections:
     output: true
   oficinas:
     output: true
+  widgets:
 
 defaults:
   - scope:
