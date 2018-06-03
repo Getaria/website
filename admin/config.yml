@@ -50,5 +50,5 @@ collections:
         widget: "object",
         fields:
           - {label: "Imagen", name: "url", widget: "image"}
-          - {label: "Alt", name: "alt", widget: "string"}
+          - {label: "Alt", name: "alt", widget: "string"},
       - {label: "Body", name: "body", widget: "markdown"}
