@@ -18,8 +18,7 @@ items:
                 url: >-
                   https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=64&idioma=eu-ES
               - title: Geografia informazio zerbitzuak
-                url: >-
-                  https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=64&idioma=eu-ES
+                url: "#"
               - title: Festak eta jaialdiak
                 url: '#'
             title: ''
@@ -57,7 +56,7 @@ items:
                   https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=13&idioma=eu-ES
               - title: Gardentasuna
                 url: >-
-                  http://www.gipuzkoairekia.eus/eu/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599
+                  http://www.gipuzkoairekia.eus/eu/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599712&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateFrom=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateTo=
               - title: Errejistro zibila
                 url: >-
                   https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=3&idioma=eu-ES
@@ -141,5 +140,149 @@ items:
         url: '#'
       - title: Gardentasuna
         url: >-
-          http://www.gipuzkoairekia.eus/eu/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599
+          http://www.gipuzkoairekia.eus/eu/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599712&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateFrom=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateTo=
     language: eu
+
+  - item:
+      - submenu:
+          - item:
+              - title: "Bienvenida del alcalde"
+                url: '#'
+              - title: "Composición municipal"
+                url: '#'
+              - title: "Presupuestos"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=52&idioma=es-ES
+              - title: "Ayudas económicas"
+                url: '#'
+              - title: "Actas"
+                url: >-
+                  https://dos.cgssl.net/PortalV/5.52/DocsPublicos.aspx?&idAyto=39&t=63&idioma=es-ES
+              - title: "Ordenanzas"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/DocsPublicos.aspx?idAyto=39&t=64&idioma=es-ES
+              - title: "Servicios cartográficos"
+                url: "#"
+              - title: "Fiestas populares"
+                url: '#'
+            title: ''
+        title: Ayuntamiento
+        url: '#'
+      - submenu:
+          - item:
+              - title: "Teléfonos de interés"
+                url: '#'
+              - title: "Horarios transporte público"
+                url: '#'
+              - title: "Agrupaciones municipales"
+                url: '#'
+              - title: "Ofertas de trabajo"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?IDCategoria=25&idioma=es-ES
+        title: Información
+        url: '#'
+      - submenu:
+          - item:
+              - title: "Buscador de tramitaciones"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesBuscador.aspx?+&idAyto=39&idioma=es-ES
+              - title: "Multas"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=18&idioma=es-ES
+              - title: "Reserva material municipal"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/Login.aspx?ReturnUrl=%2fPortalV%2f5.52%2fZonaPrivada%2fNuevaSolicitud.aspx%3fTipoExpediente%3dUMAI%26Doc%3d1&TipoExpediente=UMAI&Doc=1&IDAyto=39&idioma=es-ES
+              - title: "Cursos"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/Login.aspx?ReturnUrl=%2fPortalV%2f5.52%2fZonaPrivada%2fNuevaSolicitud.aspx%3fTipoExpediente%3dKIAS%26Doc%3d1&TipoExpediente=KIAS&Doc=1&IDAyto=39&idioma=es-ES
+              - title: "Certificados"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=13&idioma=es-ES
+              - title: "Transparencia"
+                url: >-
+                  http://www.gipuzkoairekia.eus/es/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599712&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateFrom=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateTo=
+              - title: "Registro civil"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudesCategorias.aspx?idAyto=39&IDCategoria=3&idioma=es-ES
+              - title: "Registro de perros"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=MTXA&idioma=es-ES
+            title: "Tramites on-line"
+          - item:
+              - title: Txosnak
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=UTXO&idioma=es-ES
+              - title: "Letreros y anuncios"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=HBLP&idioma=es-ES
+              - title: "Obras mayores"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=HBLH&idioma=es-ES
+              - title: "Obras menores"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=HBLT&idioma=es-ES
+            title: "Permisos y licencias"
+          - item:
+              - title: "Registro de alta"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=CBEA&idioma=es-ES
+              - title: "Registro de baja"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=CBEB&idioma=es-ES
+              - title: "Certificados"
+                url: >-
+                  https://uzt.gipuzkoa.eus/WAS/AYTO/USCServicioCiudadanoVer15WEB/home.do?ayto=039&hizkuntza=ES
+              - title: "Cambio de dirección y datos personales"
+                url: >-
+                  https://uzt.gipuzkoa.eus/PortalV/7.00/SolicitudDetalle.aspx?idAyto=39&id=CBEC&idioma=es-ES
+            title: Errolda
+        title: "Censo municipal"
+        url: '#'
+      - submenu:
+          - item:
+              - title: "Cultura"
+                url: '#'
+              - title: "Turismo"
+                url: '#'
+              - title: "Urbanismo y medio ambiente"
+                url: '#'
+              - title: "Educación"
+                url: '#'
+              - title: "Juventus"
+                url: '#'
+              - title: "Deportes"
+                url: '#'
+              - title: "Igualdad"
+                url: '#'
+              - title: "Hacienda"
+                url: '#'
+              - title: "Participación ciudadana"
+        title: "Departamentos"
+        url: '#'
+      - submenu:
+          - item:
+              - title: "Policía municipal"
+                url: '#'
+              - title: "Oficina de Turismo"
+              - title: "Biblioteca municipal"
+                url: '#'
+              - title: "Polideportivo"
+                url: '#'
+              - title: "Herri eskola"
+                url: '#'
+              - title: Haurtzaindegia
+                url: '#'
+              - title: "Centro de día"
+                url: '#'
+              - title: "Escuela de música"
+                url: '#'
+              - title: "Servicios sociales"
+                url: '#'
+              - title: "Juzgado de paz"
+                url: '#'
+        title: "Oficinas"
+        url: '#'
+      - title: "Transparencia"
+        url: >-
+          http://www.gipuzkoairekia.eus/es/gardentasuneko-katalogoa?p_p_id=S_WAR_DOGGipuzkoaIrekiaPublicportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_categoryId=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_organizationId=599712&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateFrom=&_S_WAR_DOGGipuzkoaIrekiaPublicportlet_dateTo=
+    language: es
