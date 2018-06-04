@@ -1,8 +1,9 @@
 ---
-title: "Web turismo Getaria"
+title: Web turismo Getaria
+language: eu
+link: 'http://www.getariaturismo.eus'
 image:
-  url:
-  alt:
-link: "http://www.getariaturismo.eus"
-lang: eu
+  alt: Getariako Turismoa Webgunea
+  url: /assets/images/uploads/link-getariaturismo_0.jpg
 ---
+
