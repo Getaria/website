@@ -9,6 +9,7 @@ sidebar_right:
   - acceso-portal-ciudadano
 after_content_sections:
   carousel:
+    include: "carousel.html"
     title: "Estekak"
-    collection: "enlaces"
+    items: "enlaces"
 ---
