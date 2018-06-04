@@ -57,6 +57,7 @@ collections:
   oficinas:
     output: true
   widgets:
+  enlaces:
 
 defaults:
   - scope:

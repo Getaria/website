@@ -35,7 +35,6 @@ collections:
                           - {label: Title, name: title, widget: string}
                           - {label: Url, name: url, widget: string}
 
-
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "content/_posts" # The path to the folder where the documents are stored
@@ -51,3 +50,19 @@ collections:
           - {label: "Imagen", name: "url", widget: "image"}
           - {label: "Alt", name: "alt", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "enlaces"
+    label: "Enlaces Euskera"
+    folder: "content/_enlaces/eu"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Language", name: "language", widget: "select", options: ["eu", "es"]}
+      - {label: "Link", name: "link", widget: "string"}
+      - label: "Imagen"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Imagen", name: "url", widget: "image"}
+          - {label: "Alt", name: "alt", widget: "string"}
