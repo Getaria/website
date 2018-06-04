@@ -8,8 +8,7 @@ permalink: /eu
 sidebar_right:
   - acceso-portal-ciudadano
 after_content_sections:
-  carousel:
-    include: "carousel.html"
+  - include: "carousel.html"
     title: "Estekak"
     items: "enlaces"
 ---
