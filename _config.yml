@@ -65,6 +65,10 @@ defaults:
       type: paginas
     values:
       layout: page
+      after_content_sections:
+        - include: "carousel.html"
+          title: "Estekak"
+          items: "enlaces"
   - scope:
       path: ""
       type: posts
